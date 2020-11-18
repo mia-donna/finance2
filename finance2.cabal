@@ -4,14 +4,14 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 3c8116fb984fd32dd2943a91001d4dc8225cd89f91e2679949fe6b79cf549941
+-- hash: b4a89c7bd2ea416832306eaf0d45b480c45f1f4ee93b58cb8eab4432c964487a
 
 name:           finance2
 version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/finance2#readme>
 homepage:       https://github.com/githubuser/finance2#readme
 bug-reports:    https://github.com/githubuser/finance2/issues
-author:         Author name here
+author:         Mia
 maintainer:     example@example.com
 copyright:      2020 Author name here
 license:        BSD3

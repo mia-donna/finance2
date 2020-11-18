@@ -1,3 +1,3 @@
-# Changelog for finance2
+# Changelog for finance
 
 ## Unreleased changes
